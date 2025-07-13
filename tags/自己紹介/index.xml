@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on 趣味の株式投資ブログ</title>
-    <link>https://toratnu.github.io/investmentblog/posts/</link>
-    <description>Recent content in Posts on 趣味の株式投資ブログ</description>
+    <title>自己紹介 on 趣味の株式投資ブログ</title>
+    <link>https://toratnu.github.io/investmentblog/tags/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/</link>
+    <description>Recent content in 自己紹介 on 趣味の株式投資ブログ</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://toratnu.github.io/investmentblog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://toratnu.github.io/investmentblog/tags/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>このブログについて</title>
       <link>https://toratnu.github.io/investmentblog/posts/kono-blog-ni-tsuite/</link>
@@ -45,20 +45,6 @@
 記事内で言及する銘柄や投資手法は、特定の銘柄や行動を勧めるものではありません。&lt;br&gt;
 投資は自己判断・自己責任でお願いします。&lt;/p&gt;
 &lt;hr&gt;</description>
-    </item>
-    <item>
-      <title>初めての投資記録：なぜこの株を買ったのか</title>
-      <link>https://toratnu.github.io/investmentblog/posts/hatsu-toushi-kiroku/</link>
-      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://toratnu.github.io/investmentblog/posts/hatsu-toushi-kiroku/</guid>
-      <description>&lt;p&gt;先日、初めてSBI証券を使って、ある国内株を購入しました。&lt;/p&gt;
-&lt;h3 id=&#34;なぜこの株にしたか&#34;&gt;なぜこの株にしたか？&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;決算が堅調&lt;/li&gt;
-&lt;li&gt;配当利回りが高い（約4%）&lt;/li&gt;
-&lt;li&gt;業界トップの安定感&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;今後も月1でポートフォリオや実績を更新していきたいと思います。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
